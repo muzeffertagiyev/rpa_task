@@ -20,7 +20,11 @@ This project contains a Python automation script using Selenium to simulate a us
 
 ## Video Demonstration
 A short video demonstration of the bot in action can be found here: 
-https://github.com/user-attachments/assets/47844cd9-546f-4b74-81ef-a21d6efcf676
+
+
+https://github.com/user-attachments/assets/5db05d4e-6303-499e-bbc1-8ed824e8d5e4
+
+
 
 
 
